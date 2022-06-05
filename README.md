@@ -1,2 +1,2 @@
-# WarriorOfDragon-2D
- Unity
+# Warrior-2D
+ Unity-2D
